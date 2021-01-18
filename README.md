@@ -1,6 +1,6 @@
 # Python-Touch-Keyboard
 
-This keyboard was developped with tkinter and the assets were created with paint3D, and can be integrated in application running on touch sensitive devices.
+This keyboard was developped with tkinter and the assets were created with paint3D, and can be integrated in Tkinter application running on touch sensitive devices.
 
 ### Installation
 
