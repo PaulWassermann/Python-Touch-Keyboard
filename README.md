@@ -1,10 +1,10 @@
 # Python-Touch-Keyboard
 
-This keyboard was developped with tkinter and the assets were created with paint3D, and can be integrated in Tkinter application running on touch sensitive devices.
+This keyboard was developped with the Python GUI library Tkinter and the assets were created with paint3D, and can be integrated in Tkinter application running on touch sensitive devices (it also responds to mouse inputs but that is not its primary purpose).
 
 ### Installation
 
-Download the folder, and put the assets folder and the python file in the same directory for the keyboard to work. 
+Download the folder, and put the assets folder and the python file in the same directory for the keyboard to work.
 
 ### Integration 
 
