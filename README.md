@@ -2,6 +2,8 @@
 
 This keyboard was developped with the Python GUI library Tkinter and the assets were created with paint3D, and can be integrated in Tkinter application running on touch sensitive devices (it also responds to mouse inputs but that is not its primary purpose).
 
+I made it as part of my "Face Recognition Schedule" project, therefore it can be seen at work in it.
+
 ### Installation
 
 Download the folder, and put the assets folder and the python file in the same directory for the keyboard to work. If you don't, be sure to change the self.path_to_assets attribute.
